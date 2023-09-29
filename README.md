@@ -22,6 +22,31 @@ A coffee shop platform where users can order menu items by adding items into a c
 * SO THAT it can support beverage enthusiast.
 * AND SO THAT these resources are easily accessible
 
+## Acceptance Criteria
+
+* GIVEN a beverage enthusiast Helper Hub Site
+* WHEN I visit the site for the first time
+* THEN I am presented on a homepage, landing site, which includes information about the site, Menu, login & signup.
+* WHEN I click on login/sign up
+* THEN I am prompted to sign up or login in
+* WHEN I sign up
+* THEN I must provide a valid email address, firstname, lastname, email address, and a password
+* WHEN I am done signing up
+* THEN I am automatically directed to the home page
+* WHEN I already have an account
+* THEN I can login using an email and password
+* WHEN I am done logging in
+* THEN I am automatically directed to the home page
+* WHEN I am logged in
+* THEN I can select an icon in the top navbar
+* WHEN I would like to select Hot drinks, Cold drinks or Pastries I select one
+* THEN I am redirected to a search page for the chosen topic
+* WHEN I want to add an item to shopping cart
+* THEN I click the add to cart button
+* WHEN I want to pay for the item from shopping cart
+* THEN I can use credit or debit card for the payment
+* WHEN I select Logout
+* THEN I am logged out of the site
 
 ## Technologies Used
 <div style="display: inline_block"><br>
