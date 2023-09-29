@@ -6,6 +6,8 @@ A coffee shop platform where users can order menu items by adding items into a c
 
 <!-- omit in toc -->
 ## Table of Contents
+- [User Story](#User-Story)
+- [Acceptance Criteria](#Acceptance-Criteria)
 - [Technologies Used](#technologies-used)
 - [Screen Capture](#screen-capture)
 - [Live Application](#live-application)
