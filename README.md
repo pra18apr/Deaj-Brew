@@ -50,7 +50,7 @@ A coffee shop platform where users can order menu items by adding items into a c
 * WHEN I want to pay for the item from shopping cart
 * THEN I can use credit or debit card for the payment
 * WHEN I select Logout
-* THEN I am logged out of the site
+* THEN I am logged out of the site and redirected to homepage.
 
 ## Technologies Used
 <div style="display: inline_block"><br>
