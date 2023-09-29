@@ -17,10 +17,10 @@ A coffee shop platform where users can order menu items by adding items into a c
 
 ## User Story
 
-AS who is interested in ordering Hot drinks, Cold drinks & Pastries 
-I WANT a page where all information is brought together into one site
-SO THAT it can support beverage enthusiast.
-AND SO THAT these resources are easily accessible
+* AS who is interested in ordering Hot drinks, Cold drinks & Pastries 
+* I WANT a page where all information is brought together into one site
+* SO THAT it can support beverage enthusiast.
+* AND SO THAT these resources are easily accessible
 
 
 ## Technologies Used
