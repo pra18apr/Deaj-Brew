@@ -37,6 +37,10 @@ A coffee shop platform where users can order menu items by adding items into a c
 * THEN I can login using an email and password
 * WHEN I am done logging in
 * THEN I am automatically directed to the home page
+* WHEN I am on homepage I can click on review past orders
+* THEN I can view the orders history
+* WHEN I click on contact us page
+* THEN I am redirected to contact us form.
 * WHEN I am logged in
 * THEN I can select an icon in the top navbar
 * WHEN I would like to select Hot drinks, Cold drinks or Pastries I select one
