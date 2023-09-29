@@ -26,7 +26,7 @@ A coffee shop platform where users can order menu items by adding items into a c
 
 * GIVEN a beverage enthusiast Helper Hub Site
 * WHEN I visit the site for the first time
-* THEN I am presented on a homepage, landing site, which includes information about the site, Menu, login & signup.
+* THEN I am presented on a homepage, which includes information about the site, Menu, login & signup.
 * WHEN I click on login/sign up
 * THEN I am prompted to sign up or login in
 * WHEN I sign up
