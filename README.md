@@ -15,6 +15,14 @@ A coffee shop platform where users can order menu items by adding items into a c
 - [Usage](#usage)
 - [Contributors](#contributors)
 
+## User Story
+
+AS who is interested in ordering Hot drinks, Cold drinks & Pastries 
+I WANT a page where all information is brought together into one site
+SO THAT it can support beverage enthusiast.
+AND SO THAT these resources are easily accessible
+
+
 ## Technologies Used
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
